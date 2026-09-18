@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Raffa
 
-🔭 Metiéndome de lleno en **SaaS** y en **Grafana** (dashboards, observabilidad, alerting).<br>
-🌱 Todavía toco algo de **Ansible** de vez en cuando; Splunk quedó en el pasado.
+📍 Buenos Aires, Argentina
+
+🔭 Diving into **SaaS** and **Grafana** (dashboards, observability, alerting).<br>
+🌱 Still touching **Ansible** here and there; Splunk is in the past.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rlopez90)
