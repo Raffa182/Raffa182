@@ -2,8 +2,7 @@
 
 📍 Buenos Aires, Argentina
 
-🔭 Diving into **SaaS** and **Grafana** (dashboards, observability, alerting).<br>
-🌱 Still touching **Ansible** here and there; Splunk is in the past.
+🔭 Diving into **SaaS** and **Grafana** (dashboards, observability, alerting).
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rlopez90)
